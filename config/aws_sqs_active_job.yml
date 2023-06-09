@@ -1,0 +1,2 @@
+queues:
+  default: 'http://localhost:9324/000000000000/activejob-queue'
